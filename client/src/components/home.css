@@ -1,0 +1,47 @@
+html {
+  overflow-y: scroll;
+}
+
+body {
+    background-image: url(../assets/3d-render-todo-check-list-with-ticks-task-test.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100%;
+}
+
+form {
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.336);
+    background-color: rgba(0, 0, 0, 0.212);
+    padding: 30px;
+    width: 300px;
+    margin: 50px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    text-align: center;
+
+
+
+}
+
+
+
+ul {
+    border: 1px solid rgba(162, 152, 247, 0.336);
+    background-color:  rgba(0, 0, 0, 0.048);
+    padding: 10px;
+    width: 50%;
+    margin: 50px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    
+}
+
+
+
+li {
+    margin-left: 15px;
+    text-align: center;
+
+}
